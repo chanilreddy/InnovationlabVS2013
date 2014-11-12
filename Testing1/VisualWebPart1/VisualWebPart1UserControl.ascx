@@ -8,4 +8,6 @@
 <%@ Control Language="VB" AutoEventWireup="true" CodeBehind="VisualWebPart1UserControl.ascx.vb" Inherits="Testing1.VisualWebPart1UserControl" %>
 <div>
     Hai.............
+    Welcome to Sharepoint 2013
+    Hai ................
 </div>
